@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! Soy Juan Galarza 👋
 
 <!--
 **juangalarza/juangalarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
